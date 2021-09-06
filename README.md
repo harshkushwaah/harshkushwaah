@@ -34,6 +34,6 @@
  <h1 align="center">.... </h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkushwaah&show_icons=true&locale=en&layout=compact" alt="harshkushwaah" /></p>
  <h1 align="center">.... </h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkushwaah&show_icons=true&locale=en" alt="harshkushwaah" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harshkushwaah&show_icons=true&locale=en" alt="harshkushwaah" /></p>
  <h1 align="center">.... </h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaah&" alt="harshkushwaah" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaah&" alt="harshkushwaah" /></p>
