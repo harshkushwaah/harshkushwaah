@@ -13,7 +13,7 @@
 - 📫 How to reach me **harshkingkushwah@gmail.com**
 
 - ⚡ Fun fact **people finds me funny and that's irritating.**
-
+<img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt"harshkushwaah" style="float: right;"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-kushwah-35b475200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kushwah-35b475200/" height="30" width="40" /></a>
