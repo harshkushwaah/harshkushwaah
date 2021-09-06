@@ -12,9 +12,9 @@
 - 📫 How to reach me **harshkingkushwah@gmail.com**
 
 - ⚡ Fun fact **people finds me funny and that's irritating.**
+  
   </div>
-<h3 align="center">.... </h3>
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt"harshkushwaah" />
+<h1 align="center">.... </h1>
 
 
 <h3 align="left">Connect with me:</h3>
