@@ -3,7 +3,7 @@
 <img align="right" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" alt"harshkushwaah" />
 <div align="left" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
-<div align="left" >
+<div class="container-fluid" align="left" >
 - 🔭 I’m currently working on **amazon clone**
 
 - 🌱 I’m currently learning **React.js**
@@ -15,9 +15,10 @@
 - ⚡ Fun fact **people finds me funny and that's irritating.**
   
   </div>
-    </div>
-<h1 align="center">.... </h1>
 
+    </div>
+
+  <h1 align="center">.... </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
