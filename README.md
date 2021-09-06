@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt"harshkushwaah" />
+<div align="left" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
 <div align="left" >
 - 🔭 I’m currently working on **amazon clone**
@@ -14,6 +15,7 @@
 - ⚡ Fun fact **people finds me funny and that's irritating.**
   
   </div>
+    </div>
 <h1 align="center">.... </h1>
 
 
