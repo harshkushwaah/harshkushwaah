@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt"harshkushwaah" style="float: right;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
-
+<div style="float: left;">
 - 🔭 I’m currently working on **amazon clone**
 
 - 🌱 I’m currently learning **React.js**
@@ -13,7 +12,9 @@
 - 📫 How to reach me **harshkingkushwah@gmail.com**
 
 - ⚡ Fun fact **people finds me funny and that's irritating.**
+  </div>
 <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt"harshkushwaah" style="float: right;"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-kushwah-35b475200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kushwah-35b475200/" height="30" width="40" /></a>
