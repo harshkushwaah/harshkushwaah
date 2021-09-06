@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img style="height:auto; width:240px;" align="right" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" alt"harshkushwaah" />
+<img style="height:auto; width:225px;" align="right" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" alt"harshkushwaah" />
 <div align="left" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
 <div class="container-fluid" align="left" >
