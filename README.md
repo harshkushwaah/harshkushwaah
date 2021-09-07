@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Kushwah</h1>
+<h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Harsh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img style="height:auto; width:225px;" align="right" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" alt"harshkushwaah" />
 <div align="left" >
@@ -34,6 +34,11 @@
  <h1 align="center"> </h1>
 
  
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshkushwaah&show_icons=true&locale=en" alt="harshkushwaah" /></p>
+## &#x269B; Language Stats
+<p align="center">
+  <a align="center" href="https://github.com/harshkushwaah">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkushwaah&theme=react&hide_border=true" />
+  </a>
+</p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkushwaah&show_icons=true&locale=en&layout=compact" alt="harshkushwaah" /></p>
