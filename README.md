@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **three.js, JavaScript**
+- 💬 Ask me about **three.js, JavaScript, MongoDB, Mongoose**
 
 - 📫 How to reach me **harshkingkushwah@gmail.com**
 
