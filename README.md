@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/harshkingkushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/harshkingkushwah" height="30" width="40" /></a>
 </p>
  <h1 align="center"> </h1>
- ## &#x1f4c8; Contribution Graph
+ ### &#x1f4c8; Contribution Graph
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=harshkushwaah&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
@@ -53,7 +53,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkushwaah&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Harsh's GitHub Stats" />
   </a>
  </p>
- ## &#128202; Contribution Stats
+### &#128202; Contribution Stats
 <p align="center">
   <img alt="Harsh's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=harshkushwaah&theme=react&hide_border=true"/>
 </p>
