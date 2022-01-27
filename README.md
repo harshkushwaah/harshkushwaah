@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **three.js, JavaScript, MongoDB, Mongoose**
 
-- 📫 How to reach me **harshkingkushwah@gmail.com**
+- 📫 How to reach me **harshkusshwah@gmail.com**
 
 - ⚡ Fun fact **people finds me funny and that's irritating.**
   
