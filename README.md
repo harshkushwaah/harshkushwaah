@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Harsh Kushwah</h1>
+<h1 align="center">Hi <img src="./wave.gif" width="25px">, I'm Harsh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img style="height:auto; width:225px;" align="right" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" alt"harshkushwaah" />
 <div align="left" >
