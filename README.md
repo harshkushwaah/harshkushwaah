@@ -4,15 +4,15 @@
 <div align="left" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
 <div class="container-fluid" align="left" >
-- 🔭 I’m currently working on **amazon clone**
+- 🔭 I’m currently working at **eqipped.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **three.js, JavaScript, MongoDB, Mongoose**
+- 💬 Ask me about **ReactJS, three.js, JavaScript, MongoDB, Mongoose**
 
 - 📫 How to reach me **harshkusshwah@gmail.com**
 
-- ⚡ Fun fact **people finds me funny and that's irritating.**
+- ⚡ Fun fact **people find me funny and that's irritating.**
   
   </div>
 
