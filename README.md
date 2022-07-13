@@ -1,6 +1,6 @@
 <!-- <div width: 100% align="center" style="background-color:rgba(0, 0, 0, 0.0470588);" >
 <img src="https://c.tenor.com/Y9oPuAcAbWIAAAAC/john-style.gif" alt="harshkushwaah"/></div> -->
-<h1 align="center"> नमस्ते <img src="/pikatchu.gif" 
+<h1 align="center">konnichiwa<img src="/pikatchu.gif" 
          alt="Waving hand animated gif"
          height="55"
          width="55" />, I'm Harsh Kushwah</h1>
