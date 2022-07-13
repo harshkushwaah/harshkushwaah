@@ -1,4 +1,4 @@
-<div width: 100% align="center" style="color:black" >
+<div width: 100% align="center" style="background-color:rgba(0, 0, 0, 0.0470588);" >
 <img src="https://c.tenor.com/Y9oPuAcAbWIAAAAC/john-style.gif" alt="harshkushwaah"/></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
