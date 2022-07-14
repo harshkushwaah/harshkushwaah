@@ -1,5 +1,5 @@
 <!-- <div width: 100% align="center" style="background-color:rgba(0, 0, 0, 0.0470588);" >
-<img src="https://c.tenor.com/Y9oPuAcAbWIAAAAC/john-style.gif" alt="harshkushwaah"/></div> -->
+<img src="https://assets8.lottiefiles.com/packages/lf20_b04ltv0r.json" alt="harshkushwaah"/></div> -->
 <h1 align="center">konnichiwa<img src="/pikatchu.gif" 
          alt="Waving hand animated gif"
          height="55"
