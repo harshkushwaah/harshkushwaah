@@ -1,6 +1,6 @@
 <!-- <div width: 100% align="center" style="background-color:rgba(0, 0, 0, 0.0470588);" >
 <img src="https://assets8.lottiefiles.com/packages/lf20_b04ltv0r.json" alt="harshkushwaah"/></div> -->
-<h1 align="center">konnichiwa<img src="/pikatchu.gif" 
+<h1 align="center">konnichiwa<img src="[/pikatchu.gif](https://github.githubassets.com/images/mona-loading-dimmed.gif)" 
          alt="Waving hand animated gif"
          height="55"
          width="55" />, I'm Harsh Kushwah</h1>
