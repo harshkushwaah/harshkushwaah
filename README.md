@@ -9,9 +9,9 @@
 <div align="left" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkushwaah&label=Profile%20views&color=0e75b6&style=flat" alt="harshkushwaah" /> </p>
 <div class="container-fluid" align="left" >
-- 🔭 I’m currently working at **eqipped.com**
+< 🔭 I’m currently working at **eqipped.com** >
 
-- 🌱 I’m currently learning **Machine Learning**
+< 🌱 I’m currently learning **Machine Learning** >
 
 - 💬 Ask me about **ReactJS, three.js, JavaScript, MongoDB, Mongoose**
 
